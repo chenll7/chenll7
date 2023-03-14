@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### ⛳Find Me
 
-- 📖[Personal Blog](https://furrybear.github.com): https://furrybear.github.com
-- 📧[Email](mailto:fbcll@outlook.com): fbcll@outlook.com
+- 📖[Personal Blog](https://chenll7.github.com): https://chenll7.github.com
+- 📧[Email](mailto:chenll7@outlook.com): chenll7@outlook.com
 
 ### 🍼Github Status
 ![](https://github-readme-stats.vercel.app/api?username=furrybear&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=2ec1ac)
