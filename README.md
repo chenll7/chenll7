@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 📧[Email](mailto:chenll7@outlook.com): chenll7@outlook.com
 
 ### 🍼Github Status
-![](https://github-readme-stats.vercel.app/api?username=furrybear&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=2ec1ac)
+![](https://github-readme-stats.vercel.app/api?username=chenll7&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=2ec1ac)
